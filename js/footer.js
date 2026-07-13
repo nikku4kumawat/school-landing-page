@@ -7,7 +7,7 @@ document.getElementById("sr-footer").innerHTML = `
         <!-- 1. BRAND -->
         <div class="col-lg-5 col-md-6">
           <div class="footer-brand">
-            <img src="/img/footerlogo.png" alt="A1-pestControl" class="footer-logo">
+            <img src="img/footerlogo.png" alt="A1-pestControl" class="footer-logo">
 
 
         <div class="footer-text">
