@@ -78,8 +78,9 @@ document.getElementById("sr-footer").innerHTML = `
 
   <!-- BOTTOM -->
   <div class="footer-bottom text-center mt-4 pt-3">
-    Education WordPress Theme
+    Copyright © 2026 Radhakrishna Birla School. All Rights Reserved. 
   </div>
+
 
 </div>
 
