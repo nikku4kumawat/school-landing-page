@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "Phone: " + phone + "\n" +
             "Class: " + studentClass;
 
-        var whatsappNumber = "918769091545";
+        var whatsappNumber = "917073142019";
 
         var url = "https://wa.me/" + whatsappNumber + "?text=" + encodeURIComponent(message);
 

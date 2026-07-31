@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
          <i class="fas fa-envelope"></i>
           <span>Email</span>
         </a>
-        <a href="https://wa.me/919680242184 " target="_blank" class="ss-float-btn ss-whatsapp">
+        <a href="https://wa.me/917073142019 " target="_blank" class="ss-float-btn ss-whatsapp">
             <i class="fab fa-whatsapp"></i>
             <span>WhatsApp</span>
         </a>
